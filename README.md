@@ -1,2 +1,2 @@
 # MSFI
-Mining Semantic Flipping Invariance for Few-shot Semantic Segmentation
+Reflection Invariance learning for Few-shot Semantic Segmentation
