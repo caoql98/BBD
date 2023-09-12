@@ -1,3 +1,3 @@
-#BBM
+#BBD
 
-Break the Bias: Multi-View Decision for Few-Shot Semantic Segmentation
+Break the Bias: Delving Semantic Transform Invariance for Few-Shot Segmentation
